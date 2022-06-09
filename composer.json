@@ -1,0 +1,14 @@
+{
+    "name": "jurapro/tis-demo-php-unit",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "10.0.x-dev"
+    }
+}
