@@ -9,6 +9,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "phpunit/phpunit": "10.0.x-dev"
+        "phpunit/phpunit": "*"
     }
 }
